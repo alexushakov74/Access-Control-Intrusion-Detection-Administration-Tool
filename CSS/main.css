@@ -1,0 +1,9 @@
+html {
+	overflow-y: scroll;
+}
+table {
+	border-left: 8px solid #ddd;
+	border-right: 8px solid #ddd;
+	border-bottom: 14px solid #ddd;
+	
+}

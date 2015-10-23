@@ -1,0 +1,24 @@
+#addData {
+    border: 0px;
+    width: 92%;
+}
+td {
+    padding: 8px;
+}
+#save {
+	width: 100px;
+}
+input {
+	padding: 4px;
+}
+select {
+	padding: 4px;
+	width: 207px;
+}
+form {
+	margin-bottom: 0px;
+}
+.rowName {
+	text-align: right;
+	width: 30%;
+}
